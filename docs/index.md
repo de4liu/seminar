@@ -8,9 +8,10 @@ hide:
 <p class="seminar-tagline">A 90-minute webinar on agentic AI applications in social science research</p>
 
 <div class="event-logistics" markdown="0">
-  <p class="logistics-line"><strong>April 15</strong> · 9:30–12:00 Central Time</p>
-  <p class="logistics-line">Format: Online Webinar Via Zoom </p>
+  <p class="logistics-line"><strong>April 15</strong> · 10:30–12:00 Central Time</p>
+  <p class="logistics-line">Online Webinar Via Zoom</p>
 </div>
+
 
 
 <p class="speakers-label">Speakers</p>
@@ -37,7 +38,7 @@ hide:
 
 ## Event description
 
-This interactive 90-minute seminar brings together leading innovators exploring the intersection of agentic AI and social science research. The session features two keynote speakers and a discussion.
+This 90-minute seminar brings together leading innovators exploring the intersection of agentic AI and social science research. The session features two keynote speakers and a discussion.
 
 The event will showcase how AI agents are transforming research methodology and practice. The first speaker, Dr. Yumei He from Tulane University, brings expertise in designing and validating digital interventions and will discuss approaches to experimental design in the age of AI. The second speaker is Professor Jie Ding from UMN Statistics. He will discuss AgentLab, a platform enabling researchers and experts to build AI agents that work as trusted teammates within rigorous research environments.
 
