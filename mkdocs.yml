@@ -1,4 +1,4 @@
-site_name: AI Agents for Social Science, From Theory to Practice
+site_name: Mini Workshop
 site_url: https://de4liu.github.io/seminar/
 theme:
   name: material
@@ -46,6 +46,9 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
 
+
+extra_css:
+  - stylesheets/extra.css
 
 copyright: |
   &copy; 2026 <a href="https://github.com/de4liu"  target="_blank" rel="noopener">De Liu</a>
