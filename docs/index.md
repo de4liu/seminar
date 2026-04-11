@@ -1,15 +1,15 @@
 ---
-title: Mini Workshop
+title: Webinar
 hide:
   - title
 ---
 
 <h1 class="seminar-title">AI Agents for Social Science Research: From Theory to Practice</h1>
-<p class="seminar-tagline">A 90-minute mini workshop on agentic AI applications in social science research</p>
+<p class="seminar-tagline">A 90-minute webinar on agentic AI applications in social science research</p>
 
 <div class="event-logistics" markdown="0">
   <p class="logistics-line"><strong>April 15</strong> · 9:30–12:00 Central Time</p>
-  <p class="logistics-line">Carlson School of Management, Room 3-166 (or Via Zoom) </p>
+  <p class="logistics-line">Format: Online Webinar Via Zoom </p>
 </div>
 
 
