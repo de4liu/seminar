@@ -1,3 +1,88 @@
+/* Page hero: seminar title + tagline */
+.seminar-title {
+  text-align: center;
+  max-width: 48rem;
+  margin: 0 auto 0.65rem;
+  padding: 0 0.5rem;
+  font-size: clamp(1.35rem, 2.5vw, 1.85rem);
+  font-weight: 600;
+  line-height: 1.28;
+}
+
+.seminar-tagline {
+  text-align: center;
+  max-width: 40rem;
+  margin: 0 auto 1rem;
+  padding: 0 0.75rem;
+  opacity: 0.9;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.event-logistics {
+  text-align: center;
+  max-width: 36rem;
+  margin: 0 auto 1.5rem;
+  padding: 0 0.75rem;
+}
+
+.event-logistics .logistics-line {
+  margin: 0.2rem 0 !important;
+  font-size: 0.98rem;
+  line-height: 1.45;
+}
+
+.event-logistics .logistics-note {
+  font-size: 0.92rem;
+  opacity: 0.88;
+  margin-top: 0.45rem !important;
+}
+
+.speakers-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.72;
+  text-align: center;
+  margin: 0 0 0.75rem !important;
+}
+
+/* Host (no photo) */
+.event-host {
+  text-align: center;
+  max-width: 640px;
+  margin: 1.75rem auto 2.25rem;
+  padding: 0 0.5rem;
+}
+
+.host-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.72;
+  margin: 0 0 0.35rem !important;
+}
+
+.host-name {
+  font-weight: 600;
+  font-size: 1.15rem;
+  margin: 0 0 0.35rem !important;
+}
+
+.host-title {
+  font-size: 0.95rem;
+  opacity: 0.92;
+  margin: 0 0 0.5rem !important;
+  line-height: 1.45;
+}
+
+.host-affil {
+  font-size: 0.9rem;
+  opacity: 0.88;
+  margin: 0 !important;
+  line-height: 1.5;
+}
+
 /* Speaker portraits on the seminar landing page */
 .speaker-row {
   display: grid;
@@ -5,7 +90,7 @@
   gap: 2rem;
   align-items: start;
   max-width: 920px;
-  margin: 2rem auto 2.5rem;
+  margin: 0 auto 2.5rem;
   padding: 0 0.5rem;
 }
 
